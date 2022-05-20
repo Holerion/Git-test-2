@@ -33,3 +33,8 @@ body{
 .navbar-dark{
     background-color: rgb(92, 0, 0);
 }
+
+.card-custom{
+    padding: 15px;
+    text-align: center;
+}
