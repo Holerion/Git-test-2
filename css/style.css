@@ -38,3 +38,11 @@ body{
     padding: 15px;
     text-align: center;
 }
+
+.text-size{
+    font-size: large;
+}
+
+.buttonReserve{
+    background-color: orange;
+}
